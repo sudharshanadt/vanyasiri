@@ -1,0 +1,9 @@
+**/node_modules/
+**/.next/
+**/build/
+**/dist/
+**/.cache/
+**/.npm/
+**/.npm-cache/
+.env
+.DS_Store

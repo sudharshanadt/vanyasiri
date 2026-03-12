@@ -1,0 +1,263 @@
+[
+    {
+        "id": "agar-wood-oil-copper-tamra",
+        "name": "Agar Wood Oil (Copper/Tamra) 5 GM",
+        "category": "Sughandha Veda",
+        "price": 2500,
+        "image": "/images/Gemini_Generated_Image_yx8ecmyx8ecmyx8e-6-e1757238793637.png",
+        "description": "Sacred Agarwood oil infused with copper-resonant energy. Known as Aguru in Sanskrit, revered in Ayurvedic and Hindu traditions for purification and spiritual elevation.",
+        "isBestSeller": false
+    },
+    {
+        "id": "agar-wood-oil-divine",
+        "name": "Agar Wood Oil (Divine) 5 GM",
+        "category": "Sughandha Veda",
+        "price": 3500,
+        "image": "/images/Gemini_Generated_Image_yx8ecmyx8ecmyx8e-e1754545999905.png",
+        "description": "The supreme divine Agarwood oil, crafted for profound spiritual elevation and meditative depth. Mentioned in the Atharva Veda for its purification properties.",
+        "isBestSeller": true
+    },
+    {
+        "id": "agar-wood-oil-gold-suvarna",
+        "name": "Agar Wood Oil (Gold/Suvarna) 5 GM",
+        "category": "Sughandha Veda",
+        "price": 4500,
+        "image": "/images/Gemini_Generated_Image_yx8ecmyx8ecmyx8e-1-e1754547126183.png",
+        "description": "Rare Agarwood oil harmonized with golden frequencies for attracting prosperity, enlightenment and royal energy. A prized offering in Vedic temples.",
+        "isBestSeller": false
+    },
+    {
+        "id": "agar-wood-oil-silver-rajata",
+        "name": "Agar Wood Oil (Silver/Rajata) 5 GM",
+        "category": "Sughandha Veda",
+        "price": 2800,
+        "image": "/images/Gemini_Generated_Image_yx8ecmyx8ecmyx8e-4-e1757240437508.png",
+        "description": "Sacred Agarwood oil attuned to silver (Rajata) energy — for cooling the mind, amplifying lunar consciousness, and deep meditation.",
+        "isBestSeller": false
+    },
+    {
+        "id": "champak-oil",
+        "name": "Champak Oil (Champaka Taila)",
+        "category": "Sughandha Veda",
+        "price": 1200,
+        "image": "/images/champak-.jpeg",
+        "description": "Extracted from the sacred Champaka flower, beloved by Lord Vishnu. This oil carries a rich floral-sweet fragrance and is used in temple offerings and aromatherapy.",
+        "isBestSeller": false
+    },
+    {
+        "id": "gulab-oil-pink",
+        "name": "Gulab Oil (Pink Rose) 3 ML",
+        "category": "Sughandha Veda",
+        "price": 950,
+        "image": "/images/Gemini_Generated_Image_cu0kcdcu0kcdcu0k-e1757238455597.png",
+        "description": "Precious pink rose essential oil (Gulab Taila) — one of the most sacred fragrances in Vedic ritual. Uplifts emotions and calms the nervous system.",
+        "isBestSeller": false
+    },
+    {
+        "id": "gulab-oil-red",
+        "name": "Gulab Oil (Red Rose) 3 ML",
+        "category": "Sughandha Veda",
+        "price": 1050,
+        "image": "/images/Gemini_Generated_Image_u8vmgku8vmgku8vm-e1754559600307.png",
+        "description": "Deep red rose oil of divine potency. Used in Ayurvedic stress relief, heart chakra balancing, and sacred rituals.",
+        "isBestSeller": false
+    },
+    {
+        "id": "holy-basil-tulsi-essential-oil",
+        "name": "Holy Basil (Tulsi) Essential Oil",
+        "category": "Sughandha Veda",
+        "price": 750,
+        "image": "/images/holy-basil-.jpeg",
+        "description": "Liquid divinity of Vishnu — Tulsi oil purifies the space, boosts immunity, calms the mind and is a cornerstone of Ayurvedic wellness.",
+        "isBestSeller": true
+    },
+    {
+        "id": "jasmine-oil-mallika-taila",
+        "name": "Jasmine Oil (Mallika Taila) 3 ML",
+        "category": "Sughandha Veda",
+        "price": 1100,
+        "image": "/images/Gemini_Generated_Image_8ehc4v8ehc4v8ehc-e1754646346882.png",
+        "description": "The moonlit nectar of the Gods — Jasmine oil (Mallika Taila) enhances romantic energy, reduces anxiety, and brings a divine floral peace.",
+        "isBestSeller": true
+    },
+    {
+        "id": "kadamba-oil",
+        "name": "Kadamba Oil (Mitragyna parvifolia) 3 ML",
+        "category": "Sughandha Veda",
+        "price": 1350,
+        "image": "/images/Gemini_Generated_Image_dlhaozdlhaozdlha-e1757238110388.png",
+        "description": "Extracted from the sacred Kadamba tree — associated with Lord Krishna's divine pastimes. An earthy, sweet, sacred oil for spiritual connection.",
+        "isBestSeller": false
+    },
+    {
+        "id": "kewda-pandanus",
+        "name": "Kewda (Pandanus odoratissimus) 3 ML",
+        "category": "Sughandha Veda",
+        "price": 850,
+        "image": "/images/essential-oil-photo-.png",
+        "description": "Kewda, the rare pandanus blossom oil of South India, is used in sacred worship offerings. Its intense floral sweetness is unparalleled in Indian perfumery.",
+        "isBestSeller": false
+    },
+    {
+        "id": "pink-lotus-oil",
+        "name": "Pink Lotus Oil (Padma Taila) 3 ML",
+        "category": "Sughandha Veda",
+        "price": 2200,
+        "image": "/images/Gemini_Generated_Image_rnycmurnycmurnyc-e1757237177494.png",
+        "description": "Blossom of Enlightenment — Pink Lotus oil awakens spiritual consciousness, heart-opening and deep emotional healing.",
+        "isBestSeller": false
+    },
+    {
+        "id": "rajanighandha-oil",
+        "name": "Rajanighandha Oil 3ML",
+        "category": "Sughandha Veda",
+        "price": 950,
+        "image": "/images/Gemini_Generated_Image_huju3phuju3phuju-e1757231239173.png",
+        "description": "Moonlit elixir of divine fragrance — Rajanighandha (tuberose) oil has deep calming properties and is revered in Indian floral perfumery.",
+        "isBestSeller": false
+    },
+    {
+        "id": "sandal-wood-oil",
+        "name": "Sandal Wood Oil 5 GM",
+        "category": "Sughandha Veda",
+        "price": 3500,
+        "image": "/images/Gemini_Generated_Image_a3w26ia3w26ia3w2.jpeg",
+        "description": "The Divine Fragrance of Enlightenment — Pure Indian sandalwood oil (Chandana Taila), the most sacred of all oils used in prayer, meditation and Ayurvedic practice.",
+        "isBestSeller": true
+    },
+    {
+        "id": "vetiver-root-oil",
+        "name": "Vetiver Root Oil (Ushira Taila) 5 ML",
+        "category": "Sughandha Veda",
+        "price": 900,
+        "image": "/images/Gemini_Generated_Image_a8r9eda8r9eda8r9.png",
+        "description": "The Earth's Cooling Veins — Vetiver root oil calms the nervous system, cools excess Pitta, and grounds scattered energy through its rich earthy aroma.",
+        "isBestSeller": false
+    },
+    {
+        "id": "white-champaka-oil",
+        "name": "White Champaka Oil (Sveta Champaka Taila) 3ML",
+        "category": "Sughandha Veda",
+        "price": 1400,
+        "image": "/images/Gemini_Generated_Image_9ssoz9ssoz9ssoz9.png",
+        "description": "Celestial Moonlight Essence — White Champaka is the rarest form of Champaka flower. Its divine oil purifies space and elevates meditative states.",
+        "isBestSeller": false
+    },
+    {
+        "id": "white-lotus-oil",
+        "name": "White Lotus Oil (Pundarika Taila) 3ML",
+        "category": "Sughandha Veda",
+        "price": 2500,
+        "image": "/images/Gemini_Generated_Image_lxdze0lxdze0lxdz-e1757236960745.png",
+        "description": "Nectar of Divine Purity — White Lotus oil (Pundarika Taila) embodies the highest spiritual awakening and is sacred to Goddess Saraswati.",
+        "isBestSeller": false
+    },
+    {
+        "id": "chintamani-rasamani",
+        "name": "CHINTAMANI (King of all the Rasamani)",
+        "category": "Rasamani",
+        "price": 51000,
+        "image": "/images/WhatsApp-Image-2025-09-08-at-9.14.02-AM-1-e1769401443419.jpeg",
+        "description": "The Wish-Fulfilling Gem — the supreme, most powerful Rasamani in existence. Crafted through ancient alchemical processes of Rasa Shastra to manifest all desires and bring divine blessings.",
+        "isBestSeller": true
+    },
+    {
+        "id": "gnana-rasa-silver",
+        "name": "Gnana Rasa (Silver)",
+        "category": "Yoga & Meditation",
+        "price": 18000,
+        "image": "/images/Gemini_Generated_Image_q64qj7q64qj7q64q-1.jpeg",
+        "description": "The Silver Knowledge Gem — crafted to enhance wisdom, knowledge, and intellectual clarity through the power of sacred alchemy.",
+        "isBestSeller": false
+    },
+    {
+        "id": "rasa-mani",
+        "name": "Rasa Mani (Divine Elixir Gem)",
+        "category": "Rasamani",
+        "price": 35000,
+        "image": "/images/WhatsApp-Image-2025-04-13-at-9.03.27-PM.jpeg",
+        "description": "Crafted from purified mercury and infused with rare high-vibrational elements, the Divine Elixir Gem restores balance, vitality and spiritual awakening. Deepens meditation and amplifies manifestation.",
+        "isBestSeller": true
+    },
+    {
+        "id": "ashvakarna-resin",
+        "name": "Ashvakarna Resin",
+        "category": "Resins and Gums",
+        "price": 600,
+        "image": "/images/Gemini_Generated_Image_2su2292su2292su2-e1758256016367.png",
+        "description": "Pure Ashvakarna Resin, highly valued in Ayurveda for its aromatic and medicinal properties. Used in incense, ritual offerings and herbal preparations.",
+        "isBestSeller": false
+    },
+    {
+        "id": "rala-dhoopa",
+        "name": "Rala Dhoopa",
+        "category": "Resins and Gums",
+        "price": 450,
+        "image": "/images/IMG_20251113_153405_878.jpg",
+        "description": "Traditional Rala Dhoopa (aromatic resin incense) for spiritual elevation, space purification, and air cleansing. Used in Vedic rituals.",
+        "isBestSeller": true
+    },
+    {
+        "id": "yaksha-dhoopa",
+        "name": "Yaksha Dhoopa",
+        "category": "Resins and Gums",
+        "price": 500,
+        "image": "/images/IMG_20251113_163712_737-e1763033855401.jpg",
+        "description": "Sacred Yaksha Dhoopa resin incense — burned in temples and homes for divine protection, spiritual clarity and to attract auspicious energies.",
+        "isBestSeller": false
+    },
+    {
+        "id": "sandal-wood-100gm",
+        "name": "Sandal Wood 100 GM",
+        "category": "Resins and Gums",
+        "price": 1800,
+        "image": "/images/Gemini_Generated_Image_aeobuwaeobuwaeob.jpeg",
+        "description": "Pure Indian Sandalwood chips — for burning as incense, making pastes for devotional purposes, and use in traditional Ayurvedic formulations.",
+        "isBestSeller": false
+    },
+    {
+        "id": "raw-wild-honey",
+        "name": "Raw Wild Honey",
+        "category": "Resins and Gums",
+        "price": 850,
+        "image": "/images/raw-honey-.jpeg",
+        "description": "100% pure raw wild-harvested honey from the forests of Devarayanadurga. Rich in enzymes, antioxidants and medicinal properties as described in Ayurveda.",
+        "isBestSeller": false
+    },
+    {
+        "id": "wild-stingless-bees-honey",
+        "name": "Wild Stingless Bees Honey",
+        "category": "Resins and Gums",
+        "price": 1200,
+        "image": "/images/Gemini_Generated_Image_hs0aarhs0aarhs0a-1-e1754549928806.png",
+        "description": "Rarest of all honeys — collected from wild stingless bee colonies. Prized in Ayurveda (Mehi) for its extraordinary medicinal properties and bittersweet taste.",
+        "isBestSeller": true
+    },
+    {
+        "id": "hanuman-chalisa-palm-leaf",
+        "name": "Hanuman Chalisa Palm Leaf Manuscript (Sanskrit and English)",
+        "category": "Palm Leaf Manuscripts",
+        "price": 1200,
+        "image": "/images/photo_2025-11-07-14.06.16.jpeg",
+        "description": "The sacred Hanuman Chalisa inscribed on a beautifully preserved palm leaf in both Sanskrit and English. A rare collectible of original artistry inspired by ancient traditions.",
+        "isBestSeller": true
+    },
+    {
+        "id": "palm-leaf-engraving-narasimha",
+        "name": "Palm Leaf Engraving (Lakshmi Narasimha Swamy)",
+        "category": "Palm Leaf Manuscripts",
+        "price": 2500,
+        "image": "/images/IMG_20251212_155134_256-1.jpg",
+        "description": "Exquisite continuous-line palm leaf engraving of Lord Lakshmi Narasimha Swamy, crafted using ancient techniques passed down through generations.",
+        "isBestSeller": true
+    },
+    {
+        "id": "natural-navaratna-stone-set",
+        "name": "Natural Navaratna Stone Set",
+        "category": "Gemstones",
+        "price": 1500,
+        "image": "/images/DSC03383.JPG.jpeg",
+        "description": "100% pure, ethically sourced Navaratna stone set representing the nine celestial bodies. Used for protecting the main door and welcoming divine energy into the home.",
+        "isBestSeller": true
+    }
+]
